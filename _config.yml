@@ -39,4 +39,4 @@ ga: UA-XXXXX-Y
 github: [metadata]
 
 # Remove generation of additional style.css
-theme: null
+theme: jekyll-theme-slate
